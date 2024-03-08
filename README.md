@@ -11,5 +11,5 @@ Currently, two official plugins are available:
 # Author
 Shashank Tiwari
 
-# Developer
+# Developed By
 Shashank Tiwari
